@@ -1,0 +1,10 @@
+.bg-color{
+	background-color:rgb(27, 34, 59);
+}
+.m-left{
+	margin-left: 5px;
+}
+.border-right{
+	border-right: 1px solid white; 
+	height: auto;
+}

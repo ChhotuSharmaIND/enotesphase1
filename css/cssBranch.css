@@ -1,0 +1,11 @@
+.bg-color{
+	background-color:rgb(27, 34, 59);
+}
+.bg-footer{
+	background-color: rgb(155, 159, 171);
+}
+.square {
+/*    background-color: antiquewhite;*/
+    width: 20vw;
+    height: 20vw;
+}

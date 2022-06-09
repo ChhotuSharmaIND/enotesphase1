@@ -1,0 +1,21 @@
+.bg-color{
+	background-color:rgb(27, 34, 59);
+}
+.bg-footer{
+	background-color: rgb(155, 159, 171);
+}
+.bg-blue-light{
+	background-color: rgb(114, 126, 168);
+}
+.img-size{
+	height: 350px;
+	width: 350px;
+}
+.border-left{
+	border-left: 1px solid white;
+	
+	
+}
+.border-buttom{
+	border-bottom: 1px solid white;
+}
